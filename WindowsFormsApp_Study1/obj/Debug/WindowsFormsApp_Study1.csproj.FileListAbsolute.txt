@@ -1,0 +1,10 @@
+C:\Users\plone\Documents\GitHub\C#\WindowsFormsApp_Study1\obj\Debug\WindowsFormsApp_Study1.csprojAssemblyReference.cache
+C:\Users\plone\Documents\GitHub\C#\WindowsFormsApp_Study1\obj\Debug\WindowsFormsApp_Study1.Calculator.resources
+C:\Users\plone\Documents\GitHub\C#\WindowsFormsApp_Study1\obj\Debug\WindowsFormsApp_Study1.Properties.Resources.resources
+C:\Users\plone\Documents\GitHub\C#\WindowsFormsApp_Study1\obj\Debug\WindowsFormsApp_Study1.csproj.GenerateResource.cache
+C:\Users\plone\Documents\GitHub\C#\WindowsFormsApp_Study1\obj\Debug\WindowsFormsApp_Study1.csproj.CoreCompileInputs.cache
+C:\Users\plone\Documents\GitHub\C#\WindowsFormsApp_Study1\bin\Debug\WindowsFormsApp_Study1.exe.config
+C:\Users\plone\Documents\GitHub\C#\WindowsFormsApp_Study1\bin\Debug\WindowsFormsApp_Study1.exe
+C:\Users\plone\Documents\GitHub\C#\WindowsFormsApp_Study1\bin\Debug\WindowsFormsApp_Study1.pdb
+C:\Users\plone\Documents\GitHub\C#\WindowsFormsApp_Study1\obj\Debug\WindowsFormsApp_Study1.exe
+C:\Users\plone\Documents\GitHub\C#\WindowsFormsApp_Study1\obj\Debug\WindowsFormsApp_Study1.pdb
