@@ -1,0 +1,9 @@
+C:\Users\plone\Documents\GitHub\C_Sharp\CuteCat\bin\Debug\CuteCat.exe.config
+C:\Users\plone\Documents\GitHub\C_Sharp\CuteCat\bin\Debug\CuteCat.exe
+C:\Users\plone\Documents\GitHub\C_Sharp\CuteCat\bin\Debug\CuteCat.pdb
+C:\Users\plone\Documents\GitHub\C_Sharp\CuteCat\obj\Debug\CuteCat.csprojAssemblyReference.cache
+C:\Users\plone\Documents\GitHub\C_Sharp\CuteCat\obj\Debug\CuteCat.Properties.Resources.resources
+C:\Users\plone\Documents\GitHub\C_Sharp\CuteCat\obj\Debug\CuteCat.csproj.GenerateResource.cache
+C:\Users\plone\Documents\GitHub\C_Sharp\CuteCat\obj\Debug\CuteCat.csproj.CoreCompileInputs.cache
+C:\Users\plone\Documents\GitHub\C_Sharp\CuteCat\obj\Debug\CuteCat.exe
+C:\Users\plone\Documents\GitHub\C_Sharp\CuteCat\obj\Debug\CuteCat.pdb

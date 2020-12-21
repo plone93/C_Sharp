@@ -1,0 +1,10 @@
+C:\Users\plone\Documents\GitHub\C_Sharp\AnimalShelter\bin\Debug\AnimalShelter.exe.config
+C:\Users\plone\Documents\GitHub\C_Sharp\AnimalShelter\bin\Debug\AnimalShelter.exe
+C:\Users\plone\Documents\GitHub\C_Sharp\AnimalShelter\bin\Debug\AnimalShelter.pdb
+C:\Users\plone\Documents\GitHub\C_Sharp\AnimalShelter\obj\Debug\AnimalShelter.csprojAssemblyReference.cache
+C:\Users\plone\Documents\GitHub\C_Sharp\AnimalShelter\obj\Debug\AnimalShelter.Form1.resources
+C:\Users\plone\Documents\GitHub\C_Sharp\AnimalShelter\obj\Debug\AnimalShelter.Properties.Resources.resources
+C:\Users\plone\Documents\GitHub\C_Sharp\AnimalShelter\obj\Debug\AnimalShelter.csproj.GenerateResource.cache
+C:\Users\plone\Documents\GitHub\C_Sharp\AnimalShelter\obj\Debug\AnimalShelter.csproj.CoreCompileInputs.cache
+C:\Users\plone\Documents\GitHub\C_Sharp\AnimalShelter\obj\Debug\AnimalShelter.exe
+C:\Users\plone\Documents\GitHub\C_Sharp\AnimalShelter\obj\Debug\AnimalShelter.pdb
