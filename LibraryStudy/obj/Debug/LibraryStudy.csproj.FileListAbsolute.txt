@@ -1,0 +1,6 @@
+C:\Users\plone\Documents\GitHub\C_Sharp\LibraryStudy\obj\Debug\LibraryStudy.csprojAssemblyReference.cache
+C:\Users\plone\Documents\GitHub\C_Sharp\LibraryStudy\obj\Debug\LibraryStudy.csproj.CoreCompileInputs.cache
+C:\Users\plone\Documents\GitHub\C_Sharp\LibraryStudy\bin\Debug\LibraryStudy.dll
+C:\Users\plone\Documents\GitHub\C_Sharp\LibraryStudy\bin\Debug\LibraryStudy.pdb
+C:\Users\plone\Documents\GitHub\C_Sharp\LibraryStudy\obj\Debug\LibraryStudy.dll
+C:\Users\plone\Documents\GitHub\C_Sharp\LibraryStudy\obj\Debug\LibraryStudy.pdb

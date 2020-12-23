@@ -1,0 +1,16 @@
+C:\Users\plone\Documents\GitHub\C_Sharp\DBTest\bin\Debug\DBTest.exe.config
+C:\Users\plone\Documents\GitHub\C_Sharp\DBTest\bin\Debug\DBTest.exe
+C:\Users\plone\Documents\GitHub\C_Sharp\DBTest\bin\Debug\DBTest.pdb
+C:\Users\plone\Documents\GitHub\C_Sharp\DBTest\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\plone\Documents\GitHub\C_Sharp\DBTest\bin\Debug\System.Security.AccessControl.dll
+C:\Users\plone\Documents\GitHub\C_Sharp\DBTest\bin\Debug\System.Security.Permissions.dll
+C:\Users\plone\Documents\GitHub\C_Sharp\DBTest\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\plone\Documents\GitHub\C_Sharp\DBTest\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\plone\Documents\GitHub\C_Sharp\DBTest\bin\Debug\System.Security.AccessControl.xml
+C:\Users\plone\Documents\GitHub\C_Sharp\DBTest\bin\Debug\System.Security.Permissions.xml
+C:\Users\plone\Documents\GitHub\C_Sharp\DBTest\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\plone\Documents\GitHub\C_Sharp\DBTest\obj\Debug\DBTest.csprojAssemblyReference.cache
+C:\Users\plone\Documents\GitHub\C_Sharp\DBTest\obj\Debug\DBTest.csproj.CoreCompileInputs.cache
+C:\Users\plone\Documents\GitHub\C_Sharp\DBTest\obj\Debug\DBTest.csproj.CopyComplete
+C:\Users\plone\Documents\GitHub\C_Sharp\DBTest\obj\Debug\DBTest.exe
+C:\Users\plone\Documents\GitHub\C_Sharp\DBTest\obj\Debug\DBTest.pdb

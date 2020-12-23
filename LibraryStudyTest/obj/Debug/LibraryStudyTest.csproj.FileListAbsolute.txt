@@ -1,0 +1,10 @@
+C:\Users\plone\Documents\GitHub\C_Sharp\LibraryStudyTest\obj\Debug\LibraryStudyTest.csproj.CoreCompileInputs.cache
+C:\Users\plone\Documents\GitHub\C_Sharp\LibraryStudyTest\bin\Debug\LibraryStudyTest.exe.config
+C:\Users\plone\Documents\GitHub\C_Sharp\LibraryStudyTest\bin\Debug\LibraryStudyTest.exe
+C:\Users\plone\Documents\GitHub\C_Sharp\LibraryStudyTest\bin\Debug\LibraryStudyTest.pdb
+C:\Users\plone\Documents\GitHub\C_Sharp\LibraryStudyTest\bin\Debug\LibraryStudy.dll
+C:\Users\plone\Documents\GitHub\C_Sharp\LibraryStudyTest\bin\Debug\LibraryStudy.pdb
+C:\Users\plone\Documents\GitHub\C_Sharp\LibraryStudyTest\obj\Debug\LibraryStudyTest.csprojAssemblyReference.cache
+C:\Users\plone\Documents\GitHub\C_Sharp\LibraryStudyTest\obj\Debug\LibraryStudyTest.csproj.CopyComplete
+C:\Users\plone\Documents\GitHub\C_Sharp\LibraryStudyTest\obj\Debug\LibraryStudyTest.exe
+C:\Users\plone\Documents\GitHub\C_Sharp\LibraryStudyTest\obj\Debug\LibraryStudyTest.pdb
