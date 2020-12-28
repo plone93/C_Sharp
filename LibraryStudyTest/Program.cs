@@ -31,8 +31,7 @@ namespace LibraryStudyTest
             //log.WriteConsole();
 
             string temp = "test";
-            Console.WriteLine(temp.IsNumeric());
-            Console.WriteLine(temp.IsDateTime());
+
         }
     }
 

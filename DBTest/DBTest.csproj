@@ -77,6 +77,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>BoardModel.Context.tt</DependentUpon>
     </Compile>
+    <Compile Include="Model\BoardModel.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BoardModel.tt</DependentUpon>
+    </Compile>
     <Compile Include="Model\BoardModel.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -101,7 +106,16 @@
     <Content Include="Model\BoardModel.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>BoardModel.Context.cs</LastGenOutput>
+      <DependentUpon>BoardModel.edmx</DependentUpon>
     </Content>
+    <Content Include="Model\BoardModel.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>BoardModel.edmx</DependentUpon>
+      <LastGenOutput>BoardModel.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
